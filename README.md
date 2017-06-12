@@ -8,7 +8,7 @@ I have been taking only courses from different websites. I have recently complet
 
 Below you will find:
 - [Angular JS Completion Certificate from Code Schools](https://github.com/zoweet/my-projects/blob/master/angular-js-completion-badge.png)
-- [Badges earned from Code Acadamey] (https://github.com/zoweet/my-projects/blob/master/codecademy-badges.png)
+- [Badges earned from Codecademy](https://github.com/zoweet/my-projects/blob/master/codecademy-badges.png)
 - [American Fork High School Transcript - Computer Programming Class](https://github.com/zoweet/my-projects/blob/master/zoe-transcript.png)
 - Letter of Recommendation from my Computer Science Teacher - Coming soon :)
 - [Letter of Recommendation from my Science Teacher](https://github.com/zoweet/my-projects/blob/master/letter-of-recommendation2.png)
