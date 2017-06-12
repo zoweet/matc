@@ -6,6 +6,22 @@ My name is Zoe Taylor. I will be a senior next year at American Fork High School
 
 I have been taking only courses from different websites. I have recently completed the Angular.js course at Code School and have completed several courses on HTML and CSS at Code Academy. Below are screenshots of my completion certificates so far. 
 
-![Badges](https://github.com/zoweet/my-projects/blob/master/angular-js-completion-badge.png)
+### Angular JS Completion Certificate thorugh Code Schools
+
+![AngualarJSBadges](https://github.com/zoweet/my-projects/blob/master/angular-js-completion-badge.png)
+
+### Badges earned through Code Acadamey
 
 ![Badges](https://github.com/zoweet/my-projects/blob/master/codecademy-badges.png)
+
+### American Fork High School Transcript - Computer Programming Class
+
+![Zoe Transcript](https://github.com/zoweet/my-projects/blob/master/zoe-transcript.png)
+
+### Letter of Recommendation from my Computer Science Teacher
+
+Coming soon!!!
+
+### Letter of Recommendation from my Science Teacher
+
+![Letter Of Recommendation](https://github.com/zoweet/my-projects/blob/master/letter-of-recommendation2.png)
